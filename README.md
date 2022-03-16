@@ -1,16 +1,12 @@
-# firebase_login
+# Firebase ile Login
 
-A new Flutter project.
+Kullanılan Paketler:
 
-## Getting Started
+  - firebase_auth: ^3.3.10
+  - firebase_core: ^1.13.1
 
-This project is a starting point for a Flutter application.
+Firebase ile Login işleminin gerçekleştirilmesi için hazırlanmış bir örnektir. 
+Konu hakkındaki detaylara [hazırladığım yazıdan](https://medium.com/@busraefe/flutterda-firebase-ile-login-i%CC%87%C5%9Flemi-281d3285f80f) ulaşabilirsiniz.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![gif-login](https://user-images.githubusercontent.com/58303242/158656889-02e4a4b3-f1e9-452d-a61c-bf2ad375391a.gif)
